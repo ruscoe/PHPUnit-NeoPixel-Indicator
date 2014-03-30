@@ -6,6 +6,8 @@ A PHP and Arduino system to display PHPUnit test statuses as a light color using
 
 Only tested on Linux, but should run on Windows and OS X as long as all requirements are met.
 
+![PHPUnit-NeoPixel-Indicator in action](http://img.ruscoe.org/arduino/phpunit-neopixel-indicator.png)
+
 ## Requirements
 
 ### Hardware
