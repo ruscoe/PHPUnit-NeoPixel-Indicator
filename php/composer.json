@@ -1,0 +1,24 @@
+{
+    "name": "ruscoe/phpunit-neopixel-indicator",
+    "description": "A PHPUnit test listener that controls an RGB LED via a serial connection to an Arduino board.",
+    "keywords": ["PHPUnit", "Arduino"],
+    "homepage": "https://github.com/ruscoe/PHPUnit-NeoPixel-Indicator",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dan Ruscoe",
+            "email": "danruscoe@gmail.com",
+            "homepage": "http://ruscoe.org",
+            "role": "Developer"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/Xowap/PHP-Serial"
+        }
+    ],
+    "require": {
+        "hyperthese/php-serial": "dev-master"
+    }
+}
