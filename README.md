@@ -8,7 +8,7 @@ Only tested on Linux, but should run on Windows and OS X as long as all requirem
 
 [YouTube demo video](http://youtu.be/0OtbiL9Lrsg)
 
-![PHPUnit-NeoPixel-Indicator in action](http://img.ruscoe.org/arduino/phpunit-neopixel-indicator.png)
+![PHPUnit-NeoPixel-Indicator in action](http://ruscoe.org/assets/images/projects/hardware/phpunit-neopixel-indicator.png)
 
 ## Requirements
 
